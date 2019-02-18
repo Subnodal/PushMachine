@@ -13,10 +13,27 @@ header {
     height: 60px;
 }
 
+.home {
+    background-color: #ffffff;
+}
+
 .headerImage {
     height: 55px;
 }
 
-.homeH1 {
-    text-align: center;
+.homeHTag {
+    text-align: left;
+}
+
+.accountButton {
+    border: 0cm;
+    background-color: #20c914;
+    height: 60px;
+    width: 140px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.wrapper {
+    text-align: left;
 }
