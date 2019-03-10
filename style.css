@@ -37,3 +37,55 @@ header {
 .wrapper {
     text-align: left;
 }
+
+.tab1 {
+    color: black;
+    background-color: white;
+    height: 50px;
+    width: 24.5%;
+    border-bottom-color: red;
+    border-left-color: black;
+    border-right-color: black;
+    border-top-color: black;
+    border-style: solid;
+    font-size: 17pt;
+}
+
+.tab2 {
+    color: black;
+    background-color: white;
+    height: 50px;
+    width: 24.5%;
+    border-bottom-color: blue;
+    border-left-color: black;
+    border-right-color: black;
+    border-top-color: black;
+    border-style: solid;
+    font-size: 17pt;
+}
+
+.tab3 {
+    color: black;
+    background-color: white;
+    height: 50px;
+    width: 24.5%;
+    border-bottom-color: #20c914 ;
+    border-left-color: black;
+    border-right-color: black;
+    border-top-color: black;
+    border-style: solid;
+    font-size: 17pt;
+}
+
+.tab4 {
+    color: black;
+    background-color: white;
+    height: 50px;
+    width: 24.5%;
+    border-bottom-color: gray;
+    border-left-color: black;
+    border-right-color: black;
+    border-top-color: black;
+    border-style: solid;
+    font-size: 17pt;
+}
